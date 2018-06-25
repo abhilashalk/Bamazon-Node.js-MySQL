@@ -1,0 +1,28 @@
+{
+  "name": "bamazon-node.js-mysql",
+  "version": "1.0.0",
+  "description": "package for Bamazon sql",
+  "main": "bamazonCostumer.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashalk/Bamazon-Node.js-MySQL.git"
+  },
+  "keywords": [
+    "Products",
+    "Bamazon"
+  ],
+  "author": "Abi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashalk/Bamazon-Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/abhilashalk/Bamazon-Node.js-MySQL#readme"
+}
