@@ -40,6 +40,8 @@ The Add to Inventory option allows the Manager/user to select a given item ID an
 
 The Add New Product option allows the Manger/user to enter details about a new product which will be entered into the database upon completion of the form.
 
+Here's link to watch the demo of Bamazon App.
+https://drive.google.com/file/d/1nrvfaDv07gEh_0JbCu86xnrIbEpXWBzI/view?usp=sharing
 
 
 
